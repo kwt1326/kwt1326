@@ -2,8 +2,12 @@
 
 <strong>Hello, I'm wontae</strong>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com)
-[![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimwontae999@gmail.com)](mailto:kimwontae999@gmail.com)
+[![hotmail Badge](https://img.shields.io/badge/microsoftoutlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:u1326@hotmail.com)](mailto:u1326@hotmail.com)
+
+### WEB Enginner Kim wontae
+
+Main >> React - Next.js
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white"/><br>
