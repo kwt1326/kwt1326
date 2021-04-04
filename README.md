@@ -3,6 +3,7 @@
 
 <div align = "left">
 
+![header]
 <br>
 
 <strong>Hello, I'm wontae</strong>
@@ -24,3 +25,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 </div>
+
+![footer]
