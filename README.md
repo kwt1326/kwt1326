@@ -3,9 +3,9 @@
 
 <div align = "left">
 
-<br><br>
-<br><br>
-<strong>Hello, I'm wontae</strong><br>
+<br>
+
+<strong>Hello, I'm wontae</strong>
 
 <br>
 
