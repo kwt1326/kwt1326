@@ -11,6 +11,13 @@
   * functional programming
   * devOps deployment process (Docker, k8s)
 
+### Work
+  
+  * IMS.Mobility
+    * Frontend Engineer - React / React-Native / **Next.js**
+  * Avrosoft (1 year 7 month)
+    * 3D Software Engineer - C++ & C# / MFC / OGRE Engine / **Three.js**
+  
 ### ⚔ Tech Stacks ⚔
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=white"/>
