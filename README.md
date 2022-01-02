@@ -18,6 +18,11 @@
   * Avrosoft (1 year 7 month)
     * 3D Software Engineer - C++ & C# / MFC / OGRE Engine / **Three.js**
   
+<!-- ### Projects
+  
+  * Dev Blog - Next.js (SSG) / TypeScript / Github Page
+    * https://kwt1326.github.io
+   -->
 ### ⚔ Tech Stacks ⚔
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=white"/>
