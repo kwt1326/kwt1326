@@ -13,9 +13,9 @@
 
 ### Work
   
-  * IMS.Mobility
+  * IMS.Mobility ( 2019.11 ~ current )
     * Frontend Engineer - React / React-Native / **Next.js**
-  * Avrosoft (1 year 7 month)
+  * Avrosoft ( 2017.12 ~ 2019.7, 1 year 8 month )
     * 3D Software Engineer - C++ & C# / MFC / OGRE Engine / **Three.js**
   
 <!-- ### Projects
