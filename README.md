@@ -27,12 +27,13 @@
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=square&logo=node.js&logoColor=whitee"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=square&logo=CSS3&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-282828?style=square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest.js-111111?style=square&logo=nestjs&logoColor=red"/>
 <img src="https://img.shields.io/badge/Three.js-black?style=square&logo=three.js&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Webpack-3776AB?style=square&logo=webpack&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-1572B6?style=square&logo=docker&logoColor=black"/>
