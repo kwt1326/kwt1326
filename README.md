@@ -14,7 +14,7 @@
 ### Work
   
   * Datahunt ( 2022.05 ~ current )
-    * Frontend Engineer - React / React-Native
+    * Frontend Engineer - React / React-Native / **Next.js**
   * IMS.Mobility ( 2019.11 ~ 2022.04 )
     * Frontend Engineer - React / React-Native / **Next.js**
   * Avrosoft ( 2017.12 ~ 2019.7, 1 year 8 month )
