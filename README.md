@@ -19,7 +19,12 @@
     * Frontend Engineer - React / React-Native / **Next.js**
   * Avrosoft ( 2017.12 ~ 2019.7, 1 year 8 month )
     * 3D Software Engineer - C++ & C# / MFC / OGRE Engine / **Three.js**
-  
+
+### Career
+
+  * Numble / Top 1 / Node.js with express 기반으로 비대면 진료 앱 클론 서버 만들기
+  * University / Top 2 / 컴퓨터공학부 졸업작품 경진대회 학장상
+ 
 <!-- ### Projects
   
   * Dev Blog - Next.js (SSG) / TypeScript / Github Page
