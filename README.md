@@ -23,6 +23,7 @@
 ### Career
 
   * Numble / Top 1 / Node.js with express 기반으로 비대면 진료 앱 클론 서버 만들기
+    * Link - https://www.numble.it/f10cc58c-55a2-4ce9-bd23-d4422b2dc025
   * University / Top 2 / 컴퓨터공학부 졸업작품 경진대회 학장상
  
 <!-- ### Projects
