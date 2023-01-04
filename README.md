@@ -1,15 +1,16 @@
 <div align = "left">
 
-# **✨Kim WonTae✨**
+# **✨wontae.Kim✨**
   
-## Front-End Developer - React Stack
+## Software Engineer
 
 #### Interests
 
-  * full-stack development ((react | vue) & springboot with kotlin | nest.js)
+  * full-stack development (react & springboot with kotlin | nest.js)
   * software architecture
   * functional programming
   * devOps deployment process (Docker, k8s)
+  * Elixer & Erlang, consistency enginnering
 
 ### Work
   
@@ -35,6 +36,7 @@
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-FF32B5?style=square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=square&logo=CSS3&logoColor=white"/>
