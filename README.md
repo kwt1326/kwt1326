@@ -10,7 +10,7 @@
   * software architecture
   * functional programming
   * devOps deployment process (Docker, k8s)
-  * Elixer & Erlang, consistency enginnering
+  * Elixer & Erlang server-side language
 
 ### Work
   
