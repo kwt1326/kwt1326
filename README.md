@@ -13,11 +13,13 @@
   * Elixer & Erlang server-side language
 
 ### Work
-  
-  * Datahunt ( 2022.05 ~ current )
-    * Frontend Engineer - React / React-Native / **Next.js**
+
+  * BDACS ( 2023.09 ~ current )
+    * Backend Engineer - JAVA / Spring Boot / MySQL / MSA
+  * Datahunt ( 2022.05 ~ 2023.09 )
+    * Frontend Engineer - React / React-Native / Next.js
   * IMS.Mobility ( 2019.11 ~ 2022.04 )
-    * Frontend Engineer - React / React-Native / **Next.js**
+    * Frontend Engineer - React / React-Native / Next.js
   * Avrosoft ( 2017.12 ~ 2019.7, 1 year 8 month )
     * 3D Software Engineer - C++ & C# / MFC / OGRE Engine / **Three.js**
 
