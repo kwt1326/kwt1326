@@ -4,13 +4,9 @@
   
 ## Software Engineer
 
-#### Interests
+### Interests
 
-  * full-stack development (react & springboot with kotlin | nest.js)
-  * software architecture
-  * functional programming
-  * devOps deployment process (Docker, k8s)
-  * Elixer & Erlang server-side language
+  * Graphics, Game, AI, Blockchain Domain
 
 ### Work
 
@@ -36,30 +32,33 @@
    -->
 ### ⚔ Tech Stacks ⚔
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-FF32B5?style=square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-FF32B5?style=square&logo=GraphQL&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-282828?style=square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nest.js-111111?style=square&logo=nestjs&logoColor=red"/>
-<img src="https://img.shields.io/badge/Three.js-black?style=square&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-green?style=square&logo=springBoot&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Webpack-3776AB?style=square&logo=webpack&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-1572B6?style=square&logo=docker&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vue-345652?style=square&logo=vuedotjs&logoColor=%234FC08D"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/OracleCloud-F05032?style=square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-FF32B5?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-282828?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nest.js-111111?style=for-the-badge&logo=nestjs&logoColor=red"/>
+<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springBoot&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=black"/>
+<img src="https://img.shields.io/badge/Webpack-3776AB?style=for-the-badge&logo=webpack&logoColor=black"/>
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+<img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
   
 ### Contact
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=square&logo=Gmail&logoColor=white&link=mailto:kimwontae999@gmail.com)](mailto:kimwontae999@gmail.com)
-[![hotmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=square&logo=microsoftoutlook&logoColor=white&link=mailto:u1326@hotmail.com)](mailto:u1326@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kimwontae999@gmail.com)](mailto:kimwontae999@gmail.com)
+[![hotmail Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&link=mailto:u1326@hotmail.com)](mailto:u1326@hotmail.com)
   
 </div>
