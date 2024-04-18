@@ -11,7 +11,7 @@
 ### Work
 
   * BDACS ( 2023.09 ~ current )
-    * Backend Engineer - JAVA / Spring Boot / MySQL / MSA
+    * Backend Engineer - JAVA / Python / Spring Boot / MySQL / MSA
   * Datahunt ( 2022.05 ~ 2023.09 )
     * Frontend Engineer - React / React-Native / Next.js
   * IMS.Mobility ( 2019.11 ~ 2022.04 )
