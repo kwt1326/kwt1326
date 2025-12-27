@@ -4,7 +4,7 @@
 
 - 🧱 Backend: microservices, event-driven systems, batch/scheduling, observability/ops
 - 🎨 Frontend/Graphics: 3D/2D engine/editor/tooling
-- 🌐 Web3: blockchain ledger service design, Mini Apps
+- 🌐 Web3: institute activities (CURG), study protocols, blockchain ledger service design, Mini Apps
 
 ## Interests
 - Blockchain Core, Economy, AI-Based Finance
