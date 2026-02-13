@@ -14,8 +14,8 @@
 - Graphics tooling & fast user workflows
 
 ## Tech
-Java/Kotlin · C++/C# · Typescript · Node.js · Rust · Solidity
-AWS · Spring · React · Docker · Graphics (Engine, Tooling)
+- Java/Kotlin · C++/C# · Typescript · Node.js · Rust · Solidity
+- AWS · Spring · React · Docker · Graphics (Engine, Tooling)
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/wontae-kim-26a375246
